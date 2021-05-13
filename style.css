@@ -1,0 +1,174 @@
+.nav{
+    padding: 2%;
+    text-align-last: right;
+    margin-top: 0%;
+
+}
+a{
+    color:#FC427B;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    padding-right: 10px;   
+}
+.button{
+    background-color: #FC427B;
+   text-align: center; 
+ color:whitesmoke;
+    font-size: 17px;
+    top: 50%;
+    left: 50%;
+    position: absolute; 
+    padding: 16px 30px;
+    border-radius: 5px;
+}
+.button:hover,.dot:hover,.blog2:hover,input[type=submit]:hover{
+    color: black;
+    background-color:whitesmoke;
+    font-size: 17px;
+}
+.dot,.blogbutton{
+    background-color: #FC427B;
+    padding:10px 20px ;
+    border-radius: 50%;
+    color: whitesmoke;
+}
+.blog2{
+    border-radius: 3px;
+    text-align: center;
+}
+
+#show{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px; 
+    line-height: 1.6;
+    font-style: italic;
+     text-align: center; 
+     color:#9e4244 ;
+}
+.navigat{
+    background-image:url(Pictures/pexels-j-lee-6843678\ \(2\).jpg);
+    background-size: cover;   
+}
+.blogger1,.blogger2{
+color: black;
+margin:auto;
+width:40%;
+padding:10%;
+border:3px seashell ;
+font-style: normal;
+font-size: 18px;
+}
+.form{
+padding:20px;
+border-radius: 6px;   
+background-color: whitesmoke;  
+}
+input[type=txt],textarea,select{
+box-sizing: border-box; 
+border:1px solid #FC427B;
+border-radius: 4px;
+width:100%;
+padding:12px;
+margin-top: 6px;
+margin-bottom: 16px;
+resize: vertical;
+} 
+input[type=submit]{
+ background-color: #FC427B;   
+ color: whitesmoke;  
+ padding: 13px  30px;
+ border: radius 5px;
+ font-size: 18px;
+} 
+.fa{
+padding: 20px;  
+font-size: 35px;  
+width:30px;
+text-align: center;
+text-decoration: none;
+margin: 5px 2px;
+border-radius: 50%;
+}
+fa:hover{
+    opacity:0.6;
+ } 
+  .fa-github{
+  background:black;   
+  color: whitesmoke;
+ }    
+ .fa-twitter{
+  background:#55ACEE; 
+  color:whitesmoke ;  
+ }
+ .fa-linkedin{
+   background:  #007bb5;  
+   color: whitesmoke;
+ }
+ .fa-pinterest{
+  background: #cb2027;  
+  color: whitesmoke; 
+ }
+.form{
+   display: flex;
+   justify-content:space-around;
+   font-size: 18px;  
+}
+#image{
+  float: right;  
+}
+.home,.form,section{
+background-image:url(Pictures/backg.jpeg) ; 
+background-size: cover;   
+}
+
+#title{
+background-color: #FC427B;  
+color: whitesmoke; 
+text-align: center; 
+font-size: 20px;
+} 
+#imageAbt{
+ border-radius: 200%; 
+border:solid #FC427B; 
+ background-color:whitesmoke;  
+}
+.article{
+ padding: 20px; 
+font-size: 20px;  
+border:3px;    
+} 
+ section {
+display: -webkit-flex;
+ display: flex;
+}
+.home{
+background-image: url(Pictures/Download\ free\ illustration\ of\ Glowing\ neon\ frame\ on\ a\ pink\ background.jpeg); 
+background-color: #9e4244;
+background-position: center;
+
+}
+.homeIntro{
+ text-align: center; 
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px; 
+color: whitesmoke;
+}
+.blog1,.blog2{
+background-image:url(Pictures/backg.jpeg) ; 
+
+background-size: cover; 
+}
+#momtreva{
+float:right ;  
+}
+.book{
+text-align: center; 
+color: black; 
+font-size: 18px;  
+
+}
+
+
